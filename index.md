@@ -1,6 +1,6 @@
 # Wishfolk Privacy Policy
 
-_Last updated: October 11, 2026_
+_Last updated: October 27, 2026_
 
 Wishfolk is a wishlist and gift-planning app for families and friends. This policy explains what the app does with your information. The short version: your lists live on your device and in your own iCloud account, and we never see them.
 
@@ -18,7 +18,7 @@ When you create or join a group, the wishes you choose to share are shared with 
 
 ## Contacts
 
-When you add someone from Contacts, you pick the card using Apple's contact picker. If you allow Contacts access, Wishfolk reads only the cards you have linked, to keep that person's birthday and picture up to date. It never reads the rest of your address book. You can turn this off in iOS Settings.
+When you add someone from Contacts, you choose a card using Apple's contact picker. Contacts access is optional. If you allow it, Wishfolk reads linked cards to keep names, birthdays and pictures up to date. It also uses targeted phone-number or email lookups among the contacts you allow it to access to label pending invitations and match joined group members to people you have already saved. These lookups happen on your device; contact labels and contact-card links stay on that device. You can change Contacts access in Settings.
 
 ## Camera and photos
 
