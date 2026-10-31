@@ -1,6 +1,6 @@
 # Wishfolk Privacy Policy
 
-_Last updated: October 27, 2026_
+_Last updated: October 31, 2026_
 
 Wishfolk is a wishlist and gift-planning app for families and friends. This policy explains what the app does with your information. The short version: your lists live on your device and in your own iCloud account, and we never see them.
 
@@ -14,7 +14,7 @@ What you enter (your profile, wishes, idea board, people, birthdays, groups, res
 
 ## Sharing with a group
 
-When you create or join a group, the wishes you choose to share are shared with the other members of that group through iCloud sharing. You decide which wishes each group sees, and you can stop sharing at any time. Reservations and purchases are shared only with the other shoppers, never with the person the gift is for. Leaving a group or stopping sharing removes your access to their lists and theirs to yours, but it cannot erase screenshots or copies someone has already made.
+When you choose to share your list with a group, its members can see your shared wishes through Apple's iCloud sharing. Everyone you share with sees the same shared list. On lists you manage alone, you can mark individual wishes Only me to keep them private. You can stop sharing your list with a group at any time. Reservations and purchases are shared only with the other shoppers, never with the person the gift is for. Removing access cannot erase screenshots or copies someone has already made.
 
 ## Contacts
 
